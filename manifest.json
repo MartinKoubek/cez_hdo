@@ -1,0 +1,9 @@
+{
+  "domain": "nizky_tarif",
+  "name": "Nízký Tarif",
+  "version": "1.0.0",
+  "documentation": "https://github.com/vase-uzivatelske-jmeno/nizky_tarif",
+  "dependencies": [],
+  "codeowners": ["@vase-uzivatelske-jmeno"],
+  "requirements": ["holidays"]
+}
